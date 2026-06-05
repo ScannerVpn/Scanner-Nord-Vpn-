@@ -56,7 +56,7 @@ npm install
 
 بعد **دابل‌کلیک روی `Start.bat`** — سرور بالا میاد و مرورگر پیش‌فرض باز میشه.
 
-### اجرای دستی (همه سیستم‌عامل‌ها)
+### اجرای دستی
 
 ```bash
 # ترمینال اول — سرور
@@ -70,7 +70,7 @@ http://localhost:3000/dashboard.html
 
 ```
 nordvpn-dashboard/
-├── main.js                  # Electron entry point (اختیاری)
+├── main.js                  # Electron entry point
 ├── server.js                # Backend proxy + ping engine
 ├── nordvpn_dashboard.html   # Frontend UI
 ├── Start.bat                # راه‌انداز یک‌کلیکی ویندوز
