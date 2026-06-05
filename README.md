@@ -41,8 +41,8 @@ Only when the server completes a TLS handshake does it show `✓VPN`. If the han
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/nordvpn-dashboard.git
-cd nordvpn-dashboard
+git clone https://github.com/ScannerVpn/Scanner-Nord-Vpn.git
+cd Scanner-Nord-Vpn
 
 # Install dependencies
 npm install
